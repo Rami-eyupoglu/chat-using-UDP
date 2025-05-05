@@ -26,10 +26,6 @@ A simple Java-based chat application that uses the UDP protocol for sending and 
 - File transfer not yet implemented
 - Basic error handling
 
-## 🔮 Future Plans
-- Add login and file sharing
-- Improve connection handling
-- Encrypt messages
 
-## 👤 Author
-**Casper** – Built as a networking practice project
+
+
